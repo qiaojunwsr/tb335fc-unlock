@@ -434,7 +434,7 @@ fastboot flash lk lk_stock.img
 
 ## 姊妹篇
 
-- **[DA 逆向复盘：8 小时失败的完整记录](docs/DA-逆向复盘.md)** — 在找到官方路径之前，我们尝试逆向 MTK 官方 DA 直接修改 seccfg。虽然最终失败，但过程里挖到了 MTK 平台安全机制的大量细节（DA 芯片表、CUSTOM 命令、SEJ 加密链、分区属性表、ARM32 反汇编）。**如果你也对 MTK 内部机制感兴趣，这篇的信息密度比本文更高。**
+- **[DA 逆向复盘：8 小时失败的完整记录](docs/da-reverse-engineering-retrospective.md)** — 在找到官方路径之前，我们尝试逆向 MTK 官方 DA 直接修改 seccfg。虽然最终失败，但过程里挖到了 MTK 平台安全机制的大量细节（DA 芯片表、CUSTOM 命令、SEJ 加密链、分区属性表、ARM32 反汇编）。**如果你也对 MTK 内部机制感兴趣，这篇的信息密度比本文更高。**
 
 ---
 
